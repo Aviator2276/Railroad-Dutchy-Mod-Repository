@@ -47,8 +47,6 @@ General information:
   - Dependencies:
     - [Cardinal Components API](https://www.curseforge.com/minecraft/mc-mods/cardinal-components-api)
     - [Cloth Config API](https://www.curseforge.com/minecraft/mc-mods/cloth-config)
-- Hephaestus
-  - https://modrinth.com/mod/hephaestus
 ## Agriculture & Food
 - Farmer's Delight
   - https://www.curseforge.com/minecraft/mc-mods/farmers-delight-fabric

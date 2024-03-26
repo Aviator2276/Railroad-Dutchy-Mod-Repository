@@ -34,19 +34,17 @@ Click "Save" to save the settings you set.
 Now click "PLAY" on that installation. This is nececssary to generate the required files of Fabric. You can close it once it reaches the menu page of Minecraft.
 
 ## 2. Install Mods
-Download the mods from this GitHub Repository:
- * [Download from GitHub](https://github.com/Aviator2276/Railroad-Dutchy-Mod-Repository/archive/refs/tags/RD-v1.0.0.zip) - 306 MB
- 
- or
- * [Latest Release](https://github.com/Aviator2276/Railroad-Dutchy-Mod-Repository/releases/latest)
+Download the mods from the GitHub Repository:
+ * [Release v1.1.0](https://github.com/Aviator2276/Railroad-Dutchy-Mod-Repository/archive/refs/tags/RD-v1.1.0.zip) - Stable (322 MB)
+ * [Latest Release](https://github.com/Aviator2276/Railroad-Dutchy-Mod-Repository/releases/latest) - Latest
 
-Then extract all the contents of the downloaded folder. After that, locate the "ClientMods" within the folders. Select all 53 mods (the files with .jar at the end) and CUT.
+Then extract all the contents of the downloaded folder. After that, locate the "ClientMods" within the folders. Select all 51 mods (the files with .jar at the end) and CUT.
 
 Locate the "GAME DIRECTORY" that you set or the default Minecraft location. It should have these files within.
 
 ![Alt Text](https://github.com/Aviator2276/Railroad-Dutchy-Mod-Repository/blob/main/images/img6.png?raw=true)
 
-Enter the "mods" folder where you can then PASTE all 52 mods into.
+Enter the "mods" folder where you can then PASTE all 51 mods into.
 
 ![Alt Text](https://github.com/Aviator2276/Railroad-Dutchy-Mod-Repository/blob/main/images/img7.png?raw=true)
 
