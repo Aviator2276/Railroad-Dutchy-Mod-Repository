@@ -1,6 +1,6 @@
 # Railroad Dutchy Client Mods List
 
-Other information:
+General information:
 - Platform: Java
 - Version: 1.20.1
 - Date Updated: 3/25/2024
@@ -66,6 +66,8 @@ Other information:
 ## Decoration
 - Supplementaries
   - https://www.curseforge.com/minecraft/mc-mods/supplementaries
+  - Dependencies:
+    - [Moonlight Lib](https://www.curseforge.com/minecraft/mc-mods/selene)
 - Macaws Doors
   - https://www.curseforge.com/minecraft/mc-mods/macaws-doors
 - Macaw's Windows

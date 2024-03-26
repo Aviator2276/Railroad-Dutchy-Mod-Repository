@@ -35,7 +35,10 @@ Now click "PLAY" on that installation. This is nececssary to generate the requir
 
 ## 2. Install Mods
 Download the mods from this GitHub Repository:
- * [Download from GitHub]() - ### MB
+ * [Download from GitHub](https://github.com/Aviator2276/Railroad-Dutchy-Mod-Repository/archive/refs/tags/RD-v1.0.0.zip) - 306 MB
+ 
+ or
+ * [Latest Release](https://github.com/Aviator2276/Railroad-Dutchy-Mod-Repository/releases/latest)
 
 Then extract all the contents of the downloaded folder. After that, locate the "ClientMods" within the folders. Select all 53 mods (the files with .jar at the end) and CUT.
 
