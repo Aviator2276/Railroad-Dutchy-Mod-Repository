@@ -1,9 +1,10 @@
 # Railroad Dutchy Client Mods List
 
 General information:
-- Platform: Java
+- Platform: Java Fabric
 - Version: 1.20.1
-- Date Updated: 3/25/2024
+- Fabric Loader: 0.15.7
+- Date Updated: 3/27/2024
 
 ## World Generation
 - Better End
@@ -28,12 +29,22 @@ General information:
 ## Technology and Science
 - CC: Tweaked
   - https://www.curseforge.com/minecraft/mc-mods/cc-tweaked
+- CC:C Bridge
+  - https://www.curseforge.com/minecraft/mc-mods/cccbridge
 - Create Fabric
   - https://www.curseforge.com/minecraft/mc-mods/create-fabric
+- Create: Power Loader (Experimental)
+  - https://www.curseforge.com/minecraft/mc-mods/create-power-loader-fabric
 - Create Crafts & Additions
   - https://www.curseforge.com/minecraft/mc-mods/createaddition
 - Create: Copycats+
   - https://www.curseforge.com/minecraft/mc-mods/copycats
+- Applied Energistics 2
+  - https://www.curseforge.com/minecraft/mc-mods/applied-energistics-2
+- Tech Reborn
+  - https://www.curseforge.com/minecraft/mc-mods/techreborn
+  - Dependencies:
+    - [Reborn Core](https://www.curseforge.com/minecraft/mc-mods/reborncore)
 - Waystones
   - https://www.curseforge.com/minecraft/mc-mods/waystones-fabric
   - Dependencies:
@@ -47,6 +58,11 @@ General information:
   - Dependencies:
     - [Cardinal Components API](https://www.curseforge.com/minecraft/mc-mods/cardinal-components-api)
     - [Cloth Config API](https://www.curseforge.com/minecraft/mc-mods/cloth-config)
+- Iron Jetpacks Fabric
+  - https://www.curseforge.com/minecraft/mc-mods/iron-jetpacks-fabric
+  - Dependencies:
+    - [Architectury API](https://www.curseforge.com/minecraft/mc-mods/architectury-api)
+    - [Auto Config Update API](https://www.curseforge.com/minecraft/mc-mods/auto-config-updated-api)
 ## Agriculture & Food
 - Farmer's Delight
   - https://www.curseforge.com/minecraft/mc-mods/farmers-delight-fabric
