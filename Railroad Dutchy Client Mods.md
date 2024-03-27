@@ -45,6 +45,10 @@ General information:
   - https://www.curseforge.com/minecraft/mc-mods/techreborn
   - Dependencies:
     - [Reborn Core](https://www.curseforge.com/minecraft/mc-mods/reborncore)
+- Modern Industrialization
+  - https://www.curseforge.com/minecraft/mc-mods/modern-industrialization
+  - Dependencies:
+    - [Cloth Config API](https://www.curseforge.com/minecraft/mc-mods/cloth-config)
 - Waystones
   - https://www.curseforge.com/minecraft/mc-mods/waystones-fabric
   - Dependencies:
