@@ -37,14 +37,14 @@ General information:
   - https://www.curseforge.com/minecraft/mc-mods/create-power-loader-fabric
 - Create Crafts & Additions
   - https://www.curseforge.com/minecraft/mc-mods/createaddition
+- Create: New Age
+  - https://www.curseforge.com/minecraft/mc-mods/create-new-age
+  - Dependencies:
+    - [Botarium](https://www.curseforge.com/minecraft/mc-mods/botarium/files/all?page=1&pageSize=20&version=1.20.1&gameVersionTypeId=4)
 - Create: Copycats+
   - https://www.curseforge.com/minecraft/mc-mods/copycats
 - Applied Energistics 2
   - https://www.curseforge.com/minecraft/mc-mods/applied-energistics-2
-- Tech Reborn
-  - https://www.curseforge.com/minecraft/mc-mods/techreborn
-  - Dependencies:
-    - [Reborn Core](https://www.curseforge.com/minecraft/mc-mods/reborncore)
 - Modern Industrialization
   - https://www.curseforge.com/minecraft/mc-mods/modern-industrialization
   - Dependencies:
@@ -96,15 +96,15 @@ General information:
   - https://www.curseforge.com/minecraft/mc-mods/macaws-trapdoors
 - Macaw's Fences & Walls
   - https://www.curseforge.com/minecraft/mc-mods/macaws-fences-and-walls
-- Chipped
-  - https://www.curseforge.com/minecraft/mc-mods/chipped
-  - Dependencies:
-    - [Resourceful Lib](https://www.curseforge.com/minecraft/mc-mods/resourceful-lib)
-    - [Aethna](https://www.curseforge.com/minecraft/mc-mods/athena) (Breaks with Sodium wihtout Indium)
 - Handcrafted
   - https://www.curseforge.com/minecraft/mc-mods/handcrafted
   - Dependencies:
     - [Resourceful Lib](https://www.curseforge.com/minecraft/mc-mods/resourceful-lib)
+- StoneWorks
+  - https://www.curseforge.com/minecraft/mc-mods/stoneworks
+  - Dependencies:
+    - [Puzzles Lib](https://www.curseforge.com/minecraft/mc-mods/puzzles-lib)
+    - [Forge Config API Port](https://www.curseforge.com/minecraft/mc-mods/forge-config-api-port-fabric)
 - Rechiseled
   - https://www.curseforge.com/minecraft/mc-mods/rechiseled
   - Dependencies:
