@@ -6,7 +6,8 @@ General information:
 - Fabric Loader: 0.15.7
 - Date Updated: 3/27/2024
 
-## World Generation
+## Mod List
+### World Generation
 - Better End
   - https://www.curseforge.com/minecraft/mc-mods/betterend
   - Dependencies:
@@ -26,7 +27,7 @@ General information:
 - Structory
   - https://www.curseforge.com/minecraft/mc-mods/structory
 
-## Technology and Science
+### Technology and Science
 - CC: Tweaked
   - https://www.curseforge.com/minecraft/mc-mods/cc-tweaked
 - CC:C Bridge
@@ -43,6 +44,10 @@ General information:
     - [Botarium](https://www.curseforge.com/minecraft/mc-mods/botarium/files/all?page=1&pageSize=20&version=1.20.1&gameVersionTypeId=4)
 - Create: Copycats+
   - https://www.curseforge.com/minecraft/mc-mods/copycats
+- Immersive Aircrafts
+  - https://www.curseforge.com/minecraft/mc-mods/immersive-aircraft
+  - Dependencies:
+    - [Man of Many Planes](https://www.curseforge.com/minecraft/mc-mods/man-of-many-planes)
 - Applied Energistics 2
   - https://www.curseforge.com/minecraft/mc-mods/applied-energistics-2
 - Modern Industrialization
@@ -67,7 +72,7 @@ General information:
   - Dependencies:
     - [Architectury API](https://www.curseforge.com/minecraft/mc-mods/architectury-api)
     - [Auto Config Update API](https://www.curseforge.com/minecraft/mc-mods/auto-config-updated-api)
-## Agriculture & Food
+### Agriculture & Food
 - Farmer's Delight
   - https://www.curseforge.com/minecraft/mc-mods/farmers-delight-fabric
 - Croptopia
@@ -81,7 +86,7 @@ General information:
   - https://www.curseforge.com/minecraft/mc-mods/naturalist
   - Dependencies:
     - [GeckoLib](https://www.curseforge.com/minecraft/mc-mods/geckolib)
-## Decoration
+### Decoration
 - Supplementaries
   - https://www.curseforge.com/minecraft/mc-mods/supplementaries
   - Dependencies:
@@ -111,7 +116,7 @@ General information:
     - [Fusion](https://www.curseforge.com/minecraft/mc-mods/fusion-connected-textures)
     - [SuperMartijn642 Core Lib](https://www.curseforge.com/minecraft/mc-mods/supermartijn642s-core-lib)
     - [SuperMartijn642 Config Lib](https://www.curseforge.com/minecraft/mc-mods/supermartijn642s-config-lib)
-## Utilities & QOL
+### Utilities & QOL
 - REI
   - https://www.curseforge.com/minecraft/mc-mods/roughly-enough-items
   - Dependencies:
@@ -131,7 +136,9 @@ General information:
   - https://www.curseforge.com/minecraft/mc-mods/mouse-tweaks
 - Polymorph
   - https://www.curseforge.com/minecraft/mc-mods/polymorph
+- Trinkets
+  - https://www.curseforge.com/minecraft/mc-mods/trinkets
 
-## Main Dependencies
+### Main Dependencies
 - Fabric API
   - https://www.curseforge.com/minecraft/mc-mods/fabric-api
